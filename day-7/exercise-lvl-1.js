@@ -1,5 +1,5 @@
 
-// Exercícios do dia 6 do curso 30 dias de javascript
+// Exercícios do dia 7 do curso 30 dias de javascript
 console.log('Exercícios nível 1\n\n');
 
 // =========> 1 <=========
