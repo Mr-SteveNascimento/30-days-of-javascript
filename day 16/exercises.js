@@ -10,6 +10,10 @@ const student = {
     skills: ['HTML', 'CSS', 'JS', 'React', 'Node', 'Python',]
 }
 
+
+// Alteração na feature
+
+
 // Exercícios do dia 16 do curso 30 dias de javascript
 console.log('Exercícios nível 1\n\n');
 
